@@ -47,11 +47,11 @@ export default Vue.extend({
   name: "App",
 
   components: {
-    HelloWorld
+    HelloWorld,
   },
 
   data: () => ({
     //
-  })
+  }),
 });
 </script>
