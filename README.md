@@ -1,3 +1,4 @@
+![](https://miro.medium.com/max/1000/1*z_UGcFcfsiU8Q3oEIL_9Mg.png)
 # vue-electron-app
 
 This is the example app to the article on Medium:
