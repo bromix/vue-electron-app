@@ -127,8 +127,7 @@ export default Vue.extend({
       },
       {
         text: "Frequently Asked Questions",
-        href:
-          "https://vuetifyjs.com/getting-started/frequently-asked-questions",
+        href: "https://vuetifyjs.com/getting-started/frequently-asked-questions",
       },
     ],
   }),
